@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
 	spec.name	= 'PaladinsToolbox'
 	spec.version	= '1.0.1'
 	spec.authors	= {
-		'John Stanford' => 'johnestanford@outlook.com'
+		'John Stanford' => 'jes13524@gmail.com'
 	}
 	spec.license	= {
 		:type => 'MIT',
